@@ -191,7 +191,7 @@ p.note { display: none; }
 <h2><span class="yellow">ボンネット開けると、ステーがフード側についててしばし探すことに・・・</span></h2>
 <a href="20260328_013.JPG" target="_blank"><img src="20260328_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">エンジンルーム、冷却駅は２ヶ所！</span></h2>
+<h2><span class="yellow">エンジンルーム、冷却液は２ヶ所！</span></h2>
 <a href="20260328_014.JPG" target="_blank"><img src="20260328_014.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">車を動かしているのはこのモーター</span></h2>
